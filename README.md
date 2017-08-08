@@ -1,6 +1,6 @@
 # YoutubeSearchExample
 
-Simple YoutubeSearch app made with this course (https://www.udemy.com/react-redux/)?
+Simple YoutubeSearch app made with [this course](https://www.udemy.com/react-redux/)
 
 ### Getting Started
 
